@@ -4,7 +4,7 @@
 
 # --- À CONFIGURER ---
 SERVER_URL="http://localhost:3000"   # remplace par l'adresse réelle du serveur sur le réseau
-ALERT_TOKEN="CHANGE_MOI"             # doit correspondre à ALERT_SECRET du serveur
+ALERT_TOKEN="MOuidrop2026"             # doit correspondre à ALERT_SECRET du serveur
 POSTE="Bureau accueil"               # identifie quel poste a déclenché l'alerte
 
 MESSAGE="${1:-Alerte déclenchée}"

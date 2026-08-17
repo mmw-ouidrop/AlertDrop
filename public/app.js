@@ -3,7 +3,7 @@
 // mettre la page derrière une authentification, ou déplacer le déclenchement
 // vers une route protégée différemment. Pour un usage interne simple, ça reste
 // acceptable si l'app n'est accessible que sur le réseau local.
-const ALERT_TOKEN = 'CHANGE_MOI'; // à remplacer par la même valeur que ALERT_SECRET
+const ALERT_TOKEN = 'MOuidrop2026'; // à remplacer par la même valeur que ALERT_SECRET
 
 const statusEl = document.getElementById('status');
 const subscribeBtn = document.getElementById('subscribeBtn');

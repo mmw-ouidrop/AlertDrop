@@ -7,7 +7,7 @@ param(
 
 # --- A CONFIGURER ---
 $ServerUrl = "http://localhost:3000"   # remplace par l'adresse reelle du serveur sur le reseau
-$AlertToken = "CHANGE_MOI"             # doit correspondre a ALERT_SECRET du serveur
+$AlertToken = "MOuidrop2026"             # doit correspondre a ALERT_SECRET du serveur
 $Poste = "Bureau accueil"              # identifie quel poste a declenche l'alerte
 
 $body = @{
