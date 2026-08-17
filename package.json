@@ -1,0 +1,17 @@
+{
+  "name": "alert-app",
+  "version": "1.0.0",
+  "description": "Système d'alerte par notification push (Web Push) pour Galaxy XCover7",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate-keys": "node generate-vapid-keys.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "web-push": "^3.6.7"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
