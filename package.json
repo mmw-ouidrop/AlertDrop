@@ -8,6 +8,7 @@
     "generate-keys": "node generate-vapid-keys.js"
   },
   "dependencies": {
+    "dotenv": "^17.4.2",
     "express": "^4.19.2",
     "web-push": "^3.6.7"
   },
